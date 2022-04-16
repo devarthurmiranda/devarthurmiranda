@@ -8,9 +8,9 @@
   <br />
   <br />
   <br />
-  <a href="https://github.com/mrarthurfernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarthurfernandes&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurfernandes&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/mrarthurexe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrarthurexe&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurexe&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
   <img align="center" alt="ArtPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ArtJava" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
