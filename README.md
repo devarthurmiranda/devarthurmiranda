@@ -1,4 +1,4 @@
-  <img align="left" alt="ArtPic" height="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/798578133267251237/964721137458237530/unknown.png">
+  <img align="left" alt="ArtPic" height="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/798578133267251237/965117499005870120/unknown.png">
 
 ## "Hello there. I'm Arthur, good to see you."
 
