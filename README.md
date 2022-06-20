@@ -15,6 +15,9 @@
   <img align="center" alt="ArtSql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div align="center">
   
+  <br>
+  <img title = "Profile Views" alt = "Profile Views"  src="https://komarev.com/ghpvc/?username=mrarthurexe&label=Profile%20views&color=0e75b6&style=flat-square&color=gray">
+
 ##
   
 <div align="center">
