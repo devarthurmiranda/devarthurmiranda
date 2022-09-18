@@ -1,13 +1,12 @@
 
 ## "Make yourself at home."
 
-
 <div align="center">
   <br />
   <br />
   <br />
   <a href="https://github.com/mrarthurexe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurexe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurexe&layout=compact&langs_count=7&theme=github_dark"/>
   <div style="display: inline_block"><br>
 </div align="center">
 
