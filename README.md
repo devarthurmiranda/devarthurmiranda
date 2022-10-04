@@ -6,11 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/mrarthurexe">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrarthurexe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="ArthStats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurexe&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000"/>
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrarthurexe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000"alt="ArthStats"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarthurexe&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000"/>
+  <img width="92%" height"195px" src="https://activity-graph.herokuapp.com/graph?username=mrarthurexe&theme=high-contrast&hide_border=true&area=true"/>
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mrarthurexe&theme=high-contrast&hide_border=true&area=true)
 
 ##
  
