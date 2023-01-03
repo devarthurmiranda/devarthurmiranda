@@ -11,8 +11,6 @@
   <!-- Repo Ref -->
   <a href="https://github.com/mrarthurexe">
 
-  <!-- Activity Graph -->
-  <img width="92%" height"195px" src="https://activity-graph.herokuapp.com/graph?username=mrarthurexe&theme=high-contrast&hide_border=true&area=true"/>
 </div>
 
 ##
