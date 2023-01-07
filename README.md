@@ -11,14 +11,6 @@
   <!-- Repo Ref -->
   <a href="https://github.com/mrarthurexe">
   </div>
-
-<!-- Infos Div -->
-<h2 align="center">Main Projects</h2>
-
-<h2 align="center">Guides</h2>
-<p align="center">
-• <a href="https://github.com/mrarthurexe/SOLID-patterns">Design Patterns</a> • <a href="https://github.com/mrarthurexe/Algorithm-Analysis">Algorithm Complexity</a> • 
-</p>
  
 <!-- Social Div -->
 <div align="center">
