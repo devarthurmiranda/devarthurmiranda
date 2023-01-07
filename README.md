@@ -15,8 +15,8 @@
 ## Main Projects
 
 ## Guides
-* <a href="https://github.com/mrarthurexe/SOLID-patterns">Design Patterns</a>
-* <a href="https://github.com/mrarthurexe/Algorithm-Analysis">Algorithm Complexity</a>
+• <a href="https://github.com/mrarthurexe/SOLID-patterns">Design Patterns</a> • <a href="https://github.com/mrarthurexe/Algorithm-Analysis">Algorithm Complexity</a> • 
+
  
 <!-- Social Div -->
 <div align="center">
