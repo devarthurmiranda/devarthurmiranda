@@ -10,10 +10,13 @@
 <div align="center">
   <!-- Repo Ref -->
   <a href="https://github.com/mrarthurexe">
-
 </div>
 
-##
+## Main Projects
+
+## Guides
+* <a href="https://github.com/mrarthurexe/SOLID-patterns">Design Patterns</a>
+* <a href="https://github.com/mrarthurexe/Algorithm-Analysis">Algorithm Complexity</a>
  
 <!-- Social Div -->
 <div align="center">
