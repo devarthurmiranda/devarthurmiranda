@@ -30,7 +30,7 @@
 
 <!-- Social Div -->
 <div align="center">
-  <h2->Social Media</h2>
+  <h2>Social Media</h2>
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/arthur-fernandes-378822237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/NWkZ7j7ud8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
