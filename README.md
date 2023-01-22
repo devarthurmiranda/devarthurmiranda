@@ -15,7 +15,7 @@
 <!--Tech Stack-->
 <div>
   <h2 align="center">Tech Stack</h2>
-  <h3>Backend/Database</h3>
+  <h3>BackEnd/Database</h3>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
