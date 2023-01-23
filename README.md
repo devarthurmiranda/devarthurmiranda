@@ -10,7 +10,7 @@
 
 <!--Tech Stack-->
 <div>
-  <h2 align="center" style="margin-bottom:200px; padding:3px;">Tech Stack</h2> 
+  <h2 align="center" style="margin-bottom:200px; padding:3px;">  Tech Stack <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
 
   <h3>Backend/Database</h3>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@
 
 <!-- Social Medias -->
 <div align="center">
-  <h2>Social Media <img alt="PhoneBoy" height="50" width="50" src="https://media.tenor.com/bhh8ONgUSjYAAAAj/anime.gif"></h2>
+  <h2>  Social Media <img alt="PhoneBoy2" height="50" width="50" src="https://media.tenor.com/bhh8ONgUSjYAAAAj/anime.gif"></h2>
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/arthur-fernandes-378822237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/NWkZ7j7ud8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
