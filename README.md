@@ -1,13 +1,6 @@
 <!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
-<!-- Typing Effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=450&size=35&duration=1800&pause=600&color=F7F7F7&center=true&width=500&lines=HELLO%2C+I'M+ARTHUR+%3AD;MAKE+YOURSELF+AT+HOME!" alt="Typing SVG" /></a>
-</div>
-
-<br>
-
 <!--Tech Stack-->
 <div>
   <h2 align="center" style="margin-bottom:200px; padding:3px;">  Tech Stack <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
