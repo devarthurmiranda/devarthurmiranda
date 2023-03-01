@@ -5,7 +5,7 @@
 <div>
   <h2 align="center" style="margin-bottom:200px; padding:3px;">  Tech Stack <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
 
-  <h3>• Backend/DB</h3>
+  <h3>• Backend</h3>
   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="blank"></a>
   <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="blank"></a>
