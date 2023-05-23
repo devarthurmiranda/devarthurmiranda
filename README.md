@@ -4,10 +4,11 @@
 <!--About-->
 <div align="left">
   <h2 align="center"> About me </h2>
-  <p>I am currently 19 years old, in the 5th (5/8) period of college, working on a data analysis project.</p>
-  <p>During the Computer Science course, I had the opportunity to participate in projects that gave me knowledge in several important topics for software development, such as: Rest APIs, Databases (design, maintenance and optimization), Design Patterns, Software Testing, DevOps, among others. 
-I also improve myself as a professional through courses and events, among them: Campus Party and Google Developers Group (GDG).
-</p>
+  <p>
+    Developer with experience Python, JavaScript (Angular/Node) and Java. I am currently in the 5th semester of college (5/8), working on a Decision Support system.
+    I've already participated in projects that gave me knowledge in several important topics for software development, such as: Rest APIs, Databases, Design Patterns, Software Testing,         Containerization, DevOps, among others. 
+    I also like to improve myself as a professional through courses and events, among them: Campus Party and Google Developers Group (GDG).
+  </p>
 </div>
 
 <!--Skills-->
