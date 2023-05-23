@@ -14,7 +14,7 @@ I also improve myself as a professional through courses and events, among them: 
 <div>
   <h2 align="center" style="margin-bottom:200px; padding:3px;"> Skills <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
 
-  <h3>• Backend</h3>
+  <h3>• Data Science</h3>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="blank"></a>
   
   <br>
