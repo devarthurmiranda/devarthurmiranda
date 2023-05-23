@@ -16,23 +16,23 @@
   <h2 align="center" style="margin-bottom:200px; padding:3px;"> Skills <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
 
   <h3>• Data Science</h3>
-  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" width="100" target="blank"></a>
-  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
   
   <br>
   
   <h3>• Web Stack</h3>
-  <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="28" width="100" target="blank"></a>
-  <a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="28" width="100" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
   
   <br>
   
   <h3>• Tools</h3>
   
-  <a><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" height="28" width="100" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" width="120" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" height="28" width="80" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon-AWS" height="28" width="80" target="_blank"></a>
   </div>
 </div>
   
