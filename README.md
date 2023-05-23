@@ -16,6 +16,7 @@ I also improve myself as a professional through courses and events, among them: 
 
   <h3>• Data Science</h3>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
   
   <br>
   
@@ -28,7 +29,6 @@ I also improve myself as a professional through courses and events, among them: 
   
   <h3>• Tools</h3>
   
-  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" target="_blank"></a>
