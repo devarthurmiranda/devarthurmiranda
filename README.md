@@ -6,7 +6,6 @@
   <h2 align="center"> About me </h2>
   <p>
     Developer with experience in Python, JavaScript (Angular/Node) and Java. I am currently in the 5th semester of college (5/8), working on a Decision Support system.
-    I've already participated in projects that gave me knowledge in several important topics for software development, such as: Rest APIs, Databases, Design Patterns, Software Testing,         Containerization, DevOps, among others. 
     I also like to improve myself as a professional through courses and events, among them: Campus Party and Google Developers Group (GDG).
   </p>
 </div>
