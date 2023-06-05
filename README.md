@@ -5,8 +5,8 @@
 <div align="left">
   <h2 align="center"> About me </h2>
   <p>
-    Developer with experience in Python, JavaScript (Angular/Node) and Java. I am currently in the 5th semester of college (5/8), working on a Decision Support system.
-    I also like to improve myself as a professional through courses and events, among them: Campus Party and Google Developers Group (GDG).
+    Developer with experience in Python, JavaScript (Angular/Node) and Java. I am currently in my 5th semester of Computer Science (5/8), majoring in Data Science and working on a Decision Support system. That being said, any invitation to participate in a project in this area is welcome.
+I also usually participate in courses and events that allow me to improve myself as a professional, among them: Campus Party and Google Developers Group (GDG).
   </p>
 </div>
 
