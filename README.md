@@ -16,6 +16,7 @@ I also usually participate in courses and events that allow me to improve myself
 
   <h3>• Data Science</h3>
   <a><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=Numpy" height="28" width="100" target="blank"></a>
   
   
   <br>
