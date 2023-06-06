@@ -31,6 +31,7 @@ I also usually participate in courses and events that allow me to improve myself
   
   <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
+  <br>
   <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" height="28" width="100" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes" height="28" width="120" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon-AWS" height="28" width="80" target="_blank"></a>
