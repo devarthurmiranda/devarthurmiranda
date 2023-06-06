@@ -16,19 +16,20 @@ I also usually participate in courses and events that allow me to improve myself
 
   <h3>• Data Science</h3>
   <a><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" height="28" width="100" target="blank"></a>
-  <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
+  
   
   <br>
   
   <h3>• Web Stack</h3>
   <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js" height="28" width="100" target="blank"></a>
   <a><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red" height="28" width="100" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
   
   <br>
   
   <h3>• Tools</h3>
   
+  <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" height="28" width="100" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes" height="28" width="120" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon-AWS" height="28" width="80" target="_blank"></a>
