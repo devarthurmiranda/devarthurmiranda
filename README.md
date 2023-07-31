@@ -6,7 +6,7 @@
   <h2 align="center"> About me </h2>
   <p>
     Developer with experience in JavaScript (Angular/Node) and Java. I am currently in my 6th semester of Computer Science (6/8), majoring in Software Engineering. That being said, any invitation to participate in a project in this area is welcome.
-I also usually participate in courses and events that allow me to improve myself as a professional, among them: Campus Party and Google Developers Group (GDG).
+I also usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG).
   </p>
 </div>
 
