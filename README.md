@@ -15,7 +15,8 @@ I also usually participate in courses and events, among them: Campus Party and G
   <h2 align="center" style="margin-bottom:200px; padding:3px;"> Skills <img alt="PhoneBoy1" height="50" width="50" src="https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"></h2> 
   
   <h3>• Stack</h3>
-  <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring" height="28" width="100" target="blank"></a>
   <a><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red" height="28" width="100" target="_blank"></a>
   
   <br>
