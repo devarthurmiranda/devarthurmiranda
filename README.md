@@ -5,7 +5,9 @@
 <div align="left">
   <h2 align="center">About me</h2>
   <p>
-    Developer with experience in Java, SpringBoot. I am currently in my 6th semester of Computer Science (6/8), focusing in Software Engineering. That being said, any invitation to participate in a project related to the area is welcome. I also usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG).
+    Developer with experience in Java, SpringBoot. 
+    • Currently in my 6th semester of Computer Science (6/8).
+    • Usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG).
   </p>
 </div>
 
