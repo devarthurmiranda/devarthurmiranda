@@ -2,12 +2,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
 <!--About-->
-<div align="left">
-  <h2 align="center">About me</h2>
+<div align="center">
+  <h2>About me</h2>
   <p>
-    Developer with experience in Java, SpringBoot. 
-    • Currently in my 6th semester of Computer Science (6/8).
-    • Usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG).
+    Developer with experience in Java, SpringBoot.<br>
+    • Currently in my 6th semester of Computer Science (6/8) •<br>
+    • Usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG) •
   </p>
 </div>
 
