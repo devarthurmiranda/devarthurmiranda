@@ -16,8 +16,9 @@
 <div align="center">
   <h2 style="margin-bottom:200px; padding:3px;">Tech Skills</h2>
   <br>
-  <h3>Stack</h3>
-  <a><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" height="28" width="100" target="blank"></a>
+  <h3>Stack for Projects</h3>
+  <a><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" height="28" width="100" target="blank"></a>
+  <a><img src="https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs" height="28" width="100" target="blank"></a>
   <a><img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring" height="28" width="100" target="blank"></a>
   <a><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=red" height="28" width="100" target="_blank"></a>
   
