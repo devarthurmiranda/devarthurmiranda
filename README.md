@@ -4,9 +4,8 @@
 <!--About-->
 <div align="center">
   <h2>About me</h2>
-  <p>
-    Developer with experience in Java, SpringBoot.<br>
-    • Currently in my 6th semester of Computer Science (7/8) •<br>
+  <p><br>
+    • Currently in my 7th semester of Computer Science (7/8) •<br>
     • Usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG) •
   </p>
 </div>
