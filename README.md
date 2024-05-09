@@ -6,7 +6,7 @@
   <h2>About me</h2>
   <p><br>
     • Currently in my 7th semester of Computer Science (7/8) •<br>
-    • Usually participate in courses and events, among them: Campus Party and Google Developers Group (GDG) •
+    • Usually participate in courses and events, hope we can meet there! •
   </p>
 </div>
 
