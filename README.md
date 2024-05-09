@@ -5,8 +5,7 @@
 <div align="center">
   <h2>About me</h2>
   <p><br>
-    • Currently in my 7th semester of Computer Science (7/8) •<br>
-    • Usually participate in courses and events, hope we can meet there! •
+    • Currently in my 4th year of Computer Science (7/8) •<br>
   </p>
 </div>
 
