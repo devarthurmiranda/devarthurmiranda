@@ -16,6 +16,9 @@
   <h2 style="margin-bottom:200px; padding:3px;">Tech Skills</h2>
 
   <br>
+
+  <h3>Frameworks</h3>
+  <a><img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs" height="28" width="90" target="_blank"></a>
   
   <h3>Tools</h3>
   <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
