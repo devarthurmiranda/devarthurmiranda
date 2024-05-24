@@ -3,9 +3,9 @@
 
 <!--About-->
 <div align="center">
-  <h2>About me</h2>
+  <h2>Sobre mim</h2>
   <p><br>
-    • Currently in my 4th year of Computer Science (7/8) •<br>
+     Gerente de Projetos & Desenvolvedor Full-Stack @ Pekicode | Cursando ciências da Computação | Gamer às vezes <br>
   </p>
 </div>
 
@@ -20,7 +20,7 @@
   <h3>Frameworks</h3>
   <a><img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs" height="28" width="90" target="_blank"></a>
   
-  <h3>Tools</h3>
+  <h3>Ferramentas</h3>
   <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" height="28" width="100" target="_blank"></a>
