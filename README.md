@@ -19,6 +19,8 @@
 
   <h3>Frameworks</h3>
   <a><img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs" height="28" width="90" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=nodedotjs" height="28" width="90" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" height="28" width="90" target="_blank"></a>
   
   <h3>Ferramentas</h3>
   <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
