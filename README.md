@@ -3,7 +3,7 @@
 
 <!--About-->
 <div align="center">
-  <h2>Sobre mim</h2>
+  <h2>About</h2>
   <p><br>
      Project Director & Full-Stack Dev at Pekicode | Computer Science <br>
   </p>
