@@ -5,7 +5,7 @@
 <div align="center">
   <h2>Sobre mim</h2>
   <p><br>
-     Gerente de Projetos & Desenvolvedor Full-Stack @ Pekicode | Cursando ciências da Computação | Gamer às vezes <br>
+     Project Director & Full-Stack Dev at Pekicode | Computer Science <br>
   </p>
 </div>
 
@@ -22,7 +22,7 @@
   <a><img src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=nodedotjs" height="28" width="90" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" height="28" width="90" target="_blank"></a>
   
-  <h3>Ferramentas</h3>
+  <h3>Tools</h3>
   <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" height="28" width="100" target="_blank"></a>
   <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker" height="28" width="100" target="_blank"></a>
