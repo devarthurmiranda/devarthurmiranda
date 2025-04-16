@@ -5,7 +5,8 @@
 <div align="center">
   <h2>About</h2>
   <p><br>
-     Project Director & Full-Stack Dev at Pekicode | Computer Science <br>
+     Ever since I started developing software, my goal has always been to help people, and today, after years of study and hard work, I can say that I have developed projects such as an AI model to combat crime on social networks, led teams at PekiCode, a company that has brought several higher education students into the job market, and also developed various solutions for internal operations at other companies. <br>I'm passionate about the area I'm studying: Computer Science, and everything that involves science in general.
+    <br>
   </p>
 </div>
 
