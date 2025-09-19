@@ -6,8 +6,7 @@
   <h2>About</h2>
 </div>
   <p><br>
-     Ever since I started developing software, my goal has always been to help people, and today, after years of study and hard work, I can say that I have developed projects such as an AI model to combat crime on social networks, led teams at PekiCode, a company that has brought several higher education students into the job market, and also developed various solutions for internal operations at other companies. <br>I'm passionate about the area I'm studying: Computer Science, and everything that involves science in general.
-    <br>
+     I am a Data Scientist with an emphasis on artificial intelligence and automation. In recent years, I have designed and implemented projects including an AI model for detecting criminal activity on social networks, as well as internal operational solutions for various companies. I have worked directly or indirectly with Techify, Redes Brasil, TopNet, Pekicode, and Complem. I currently serve on the Techify team, where I develop training programs and products in automation and AI. I previously served as Projects Director at Pekicode, a student-run initiative that helped bridge higher-education talent to the regional job market. I maintain a strong commitment to technical rigor, continuous learning, and delivering measurable results.
   </p>
 
 <br>
