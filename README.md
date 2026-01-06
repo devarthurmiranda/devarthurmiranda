@@ -8,7 +8,7 @@
 
 <br>
   <p>
-     I am a AI and Automation Engineer. In recent years, I have designed and implemented projects including an AI model for detecting criminal activity on social networks, as well as internal operational solutions for various companies. I have worked directly or indirectly with Techify, Redes Brasil, TopNet, Pekicode, and Complem. I currently serve on the Techify team, where I develop training programs and products in automation and AI. I previously served as Projects Director at Pekicode, a student-run initiative that helped bridge higher-education talent to the regional job market. I maintain a strong commitment to technical rigor, continuous learning, and delivering measurable results.
+    In recent years, I have designed and implemented projects including an AI model for detecting criminal activity on social networks, as well as internal operational solutions for various companies. I have worked directly or indirectly with Techify, Redes Brasil, TopNet, Pekicode, and Complem. I currently serve on the Techify team, where I develop training programs and products in automation and AI. I previously served as Projects Director at Pekicode, a student-run initiative that helped bridge higher-education talent to the regional job market. I maintain a strong commitment to technical rigor, continuous learning, and delivering measurable results.
   </p>
 <br>
 <div align="center">
