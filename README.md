@@ -8,7 +8,7 @@
 
 <br>
   <p>
-    In recent years, I have designed and implemented entire ecossystems for companies. I have worked directly or indirectly with Techify, Redes Brasil, TopNet, Pekicode, and Complem. Currently serving on the Techify team, where I develop automation and AI solutions. I previously served as Projects Director at Pekicode, a student-run initiative that helped bridge higher-education talent to the regional job market. I maintain a strong commitment to technical rigor, continuous learning, and delivering measurable results.
+    Specialist in architecting autonomous enterprise ecosystems. I design and deploy end-to-end solutions where AI and automation replace manual operational layers. My portfolio includes contributions to Techify, Redes Brasil, TopNet, and Complem. Currently at Techify, I engineer proprietary AI agents to optimize internal processes. Previously, as Projects Director at Pekicode, I led technical teams and oversaw the delivery of software products for regional clients. My focus is on building self-sustaining, scalable architectures that drive measurable efficiency.
   </p>
 <br>
 <div align="center">
