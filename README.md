@@ -8,7 +8,7 @@
 
 <br>
   <p>
-    I do research, change data, repeat.
+    I do research, sleep, repeat.
   </p>
 <br>
 
